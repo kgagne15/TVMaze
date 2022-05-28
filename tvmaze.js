@@ -18,6 +18,8 @@
       }
  */
 
+      //USED THE SOLUTION FOR GUIDANCE, ESPECIALLY FOR THE EPISODE PART
+
 const MISSING_IMG_SRC = "https://tinyurl.com/tv-missing"; 
 
 async function searchShows(query) {
